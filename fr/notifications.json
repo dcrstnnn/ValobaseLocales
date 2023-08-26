@@ -1,6 +1,12 @@
 [
     {
         "id": 1,
+        "title": "Annonce de màj",
+        "description": "Nouvelle fonctionnalité : Pre-game view, et bien plus encore",
+        "status": "show"
+    },
+    {
+        "id": 2,
         "title": "Bienvenue sur Valobase",
         "description": "Nous sommes heureux de vous voir sur notre application !",
         "status": "show"
