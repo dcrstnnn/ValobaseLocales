@@ -3,13 +3,6 @@
         "id": 1,
         "title": "Bienvenue sur Valobase",
         "description": "Nous sommes heureux de vous voir sur notre application !",
-        "onTop": true,
-        "show": true
-    },
-    {
-        "id": 2,
-        "title": "Valobase 1.9.2",
-        "description": "Hahaha",
         "onTop": false,
         "show": true
     }
