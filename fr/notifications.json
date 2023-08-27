@@ -4,6 +4,6 @@
         "title": "Bienvenue sur Valobase",
         "description": "Nous sommes heureux de vous voir sur notre application !",
         "onTop": true,
-        "show": false
+        "show": true
     }
 ]
