@@ -3,6 +3,13 @@
         "id": 1,
         "title": "Bienvenue sur Valobase",
         "description": "Nous sommes heureux de vous voir sur notre application !",
+        "onTop": false,
+        "show": true
+    },
+    {
+        "id": 2,
+        "title": "Valobase X Discord",
+        "description": "Un nitro à gagner sur notre Discord ! Rejoignez le maintenant.",
         "onTop": true,
         "show": true
     }
