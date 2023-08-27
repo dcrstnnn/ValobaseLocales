@@ -3,8 +3,8 @@
         "id": 1,
         "title": "Bienvenue sur Valobase",
         "description": "Nous sommes heureux de vous voir sur notre application !",
-        "onTop": false,
-        "show": false
+        "onTop": true,
+        "show": true
     },
     {
         "id": 2,
@@ -19,5 +19,12 @@
         "description": "La mise à jour inclut l'accès à la boutique, à l'instalocker et bien plus !",
         "onTop": true,
         "show": false
+    },
+    {
+        "id": 4,
+        "title": "jhkljkljlkj",
+        "description": "La mise à jour inclut l'accès à la boutique, à l'instalocker et bien plus !",
+        "onTop": false,
+        "show": true
     }
 ]
