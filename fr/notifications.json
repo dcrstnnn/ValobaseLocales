@@ -10,7 +10,7 @@
         "id": 2,
         "title": "Valobase X Discord",
         "description": "Un nitro à gagner sur notre Discord ! Rejoignez le maintenant.",
-        "onTop": false,
+        "onTop": true,
         "show": true
     },
     {
