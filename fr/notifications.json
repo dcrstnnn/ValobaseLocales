@@ -18,6 +18,6 @@
         "title": "Mise à jour 1.9.3",
         "description": "La mise à jour inclut l'accès à la boutique, à l'instalocker et bien plus !",
         "onTop": true,
-        "show": true
+        "show": false
     }
 ]
