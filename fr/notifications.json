@@ -4,27 +4,6 @@
         "title": "Bienvenue sur Valobase",
         "description": "Nous sommes heureux de vous voir sur notre application !",
         "onTop": true,
-        "show": false
-    },
-    {
-        "id": 2,
-        "title": "Valobase X Discord",
-        "description": "Un nitro à gagner sur notre Discord ! Rejoignez le maintenant.",
-        "onTop": true,
-        "show": false
-    },
-    {
-        "id": 3,
-        "title": "Mise à jour 1.9.3",
-        "description": "La mise à jour inclut l'accès à la boutique, à l'instalocker et bien plus !",
-        "onTop": true,
-        "show": false
-    },
-    {
-        "id": 4,
-        "title": "jhkljkljlkj",
-        "description": "La mise à jour inclut l'accès à la boutique, à l'instalocker et bien plus !",
-        "onTop": false,
-        "show": false
+        "show": true
     }
 ]
