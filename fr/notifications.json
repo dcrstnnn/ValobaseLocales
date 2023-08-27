@@ -8,15 +8,8 @@
     },
     {
         "id": 2,
-        "title": "Notification Test",
-        "description": "Ceci est une notification de test qui permet au concepteur de vérifier les features du système de notification notamment avec cette phrase longue?,.;/:§!1234567890°+)=",
-        "onTop": false,
-        "show": true
-    },
-    {
-        "id": 3,
-        "title": "Notification Test Pas supprimé",
-        "description": "Ceci est une notification de test qui permet au concepteur de vérifier les features du système de notification notamment avec cette phrase longue?,.;/:§!1234567890°+)=",
+        "title": "Valobase 1.9.2",
+        "description": "Hahaha",
         "onTop": false,
         "show": true
     }
